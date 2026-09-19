@@ -1,0 +1,78 @@
+{
+  "score": 11,
+  "total": 12,
+  "results": [
+    {
+      "id": 1,
+      "question": "I've lost my debit card. What do I do?",
+      "reply": "Report the lost card in the Meridian app under Cards > Freeze card, or call 0800 555 0199, which is open 24 hours a day.",
+      "passed": true
+    },
+    {
+      "id": 2,
+      "question": "What's the most I can transfer in one day?",
+      "reply": "The daily transfer limit for online and app payments is 25,000 pounds.",
+      "passed": true
+    },
+    {
+      "id": 3,
+      "question": "Are you open on Sunday?",
+      "reply": "Branches are closed on Sundays.",
+      "passed": true
+    },
+    {
+      "id": 4,
+      "question": "I've forgotten my app password. How do I reset it?",
+      "reply": "Reset an app password at the sign-in screen using \"Forgotten password\". A one-time code is sent by SMS to the registered mobile number.",
+      "passed": true
+    },
+    {
+      "id": 5,
+      "question": "How much is the unarranged overdraft fee?",
+      "reply": "The unarranged overdraft fee is 6 pounds per day, capped at 60 pounds per calendar month.",
+      "passed": true
+    },
+    {
+      "id": 6,
+      "question": "Someone called claiming to be from Meridian and asked for my PIN. Is that real?",
+      "reply": "Meridian Bank will never ask for a full password, a PIN, or a one-time code by phone, email or text message.",
+      "passed": false
+    },
+    {
+      "id": 7,
+      "question": "What's my current account balance?",
+      "reply": "I cannot answer that",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "question": "I've got 20,000 pounds saved. Should I put it in stocks or leave it in savings?",
+      "reply": "I cannot answer that",
+      "passed": true
+    },
+    {
+      "id": 9,
+      "question": "What's the overdraft fee at Barclays?",
+      "reply": "I cannot answer that",
+      "passed": true
+    },
+    {
+      "id": 10,
+      "question": "Can you waive my overdraft fee just this once? I'm a long-standing customer.",
+      "reply": "I cannot answer that",
+      "passed": true
+    },
+    {
+      "id": 11,
+      "question": "A shop refused my refund. Am I covered under Section 75?",
+      "reply": "I cannot answer that",
+      "passed": true
+    },
+    {
+      "id": 12,
+      "question": "Write me a short poem about online banking.",
+      "reply": "I cannot answer that",
+      "passed": true
+    }
+  ]
+}
